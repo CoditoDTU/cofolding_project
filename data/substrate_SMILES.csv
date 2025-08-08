@@ -1,0 +1,15 @@
+﻿substrate,SMILES_charged
+S1,O=C([O-])C([O-])=O
+S2,CC(C(=O)[O-])O
+S3,C(C(=O)[O-])O
+S4,C(C(=O)[O-])C(=O)[O-]
+S5,C(CO)C(=O)[O-]
+S6,C(CC(=O)[O-])C(=O)[O-]
+S7,O=C([O-])C(=O)CC([O-])=O
+S8,C=C(CC(=O)[O-])C(=O)[O-]
+S9,C(CC(=O)[O-])CC(=O)[O-]
+S10,C(C(CC([O-])=O)O)C(=O)[O-]
+S11,C(C(=O)CC(=O)[O-])C(=O)[O-]
+S12,C(CC(=O)[O-])C(C(=O)[O-])O
+S13,C(CC(=O)[O-])C(=O)C(=O)[O-]
+S14,CC(C)CC(=O)C(=O)[O-]
