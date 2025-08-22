@@ -3,12 +3,12 @@ channels:
   - pytorch
   - defaults
 dependencies:
-  - python=3.9
+  - python=3.10
   - pip
   - pip:
     - torch==2.4.0
     - torchvision==0.19.0
-    - pytorch-lightning==2.5.0
+    - pytorch-lightning ==2.5.0
     - boltz
     - py3Dmol
     - numpy
@@ -17,3 +17,4 @@ dependencies:
     - seaborn
     - pyyaml
     - ipython
+    - ipywidgets
